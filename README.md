@@ -1,5 +1,5 @@
 # Selenium_Web_Scraping_Script
-This repository contains two script 1. Selenium+Python script that demonstrates how to run cross-browser tests using BrowserStack. 2. a script to test locally using any browser driver. It allows you to test a website across multiple browsers (desktop and mobile) as specified in a config.yaml file. The script uses Selenium WebDriver and integrates with BrowserStack to execute tests on real devices and different browser versions.
+This repository contains two script 1. Selenium+Python script that demonstrates how to run cross-browser tests using BrowserStack. 2. a script to test using Chromedriver. It allows you to test a website across multiple browsers (desktop and mobile) as specified in a config.yaml file. The script uses Selenium WebDriver and integrates with BrowserStack to execute tests on real devices and different browser versions.
 
 # Requirements
 Before running the script, make sure you have the following installed:
