@@ -1,0 +1,29 @@
+browserstack:
+  username: "UserName"
+  access_key: "AccessKey"
+
+capabilities:
+  - browser: "Chrome"
+    browser_version: "latest"
+    os: "Windows"
+    os_version: "10"
+
+  - browser: "Safari"
+    browser_version: "latest"
+    os: "OS X"
+    os_version: "Ventura"
+
+  - browser: "Firefox"
+    browser_version: "latest"
+    os: "Windows"
+    os_version: "10"
+
+  - browser: "iphone"
+    browser_version: "latest"
+    os: "iOS"
+    os_version: "16"
+
+  - browser: "chrome"
+    browser_version: "latest"
+    os: "Android"
+    os_version: "12"
